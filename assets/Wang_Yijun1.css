@@ -1,0 +1,74 @@
+h3 {
+	font-family: Comic Sans M;
+	text-align:right;
+	color: white;
+	font-size: 24px;
+	display: block;
+	border-radius: 60px;
+}
+
+h3 a{
+	color: #4d4d33;
+	text-decoration: none;
+	padding-left:5%;
+	padding-right:5%;
+	font-weight: bold;
+	background-color:white;
+	border-radius: 5px;
+	font-family: Verdana;
+}
+p{
+	font-family: Calibri;
+	display: block;
+	margin: 3%;
+	background-color: #c6cccc;
+	padding: 3%;
+	color: #4d4d33;
+	border-radius: 20px;
+	width: 30%;
+	font-size:20px;
+}
+
+.bottomleft	{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+
+h2 {
+	font-family: Calibri;
+	font-size: 34px;
+	color: white;
+	margin-left: 10%;
+	position: left-side;
+	padding: 10px;
+	
+	
+}
+
+#Question {
+	font-family: Calibri;
+	display: block;
+	margin: 7%;
+	background-color: none;
+	padding: 3%;
+	color: #4d4d33;
+	font-size: 26px;
+	list-style-type: none;
+}
+
+body {
+	background-color: #c6cccc;
+}
+
+#pic {
+	margin-left: 5%;
+	float: left;
+}
+.video{
+	margin-left: 40%;
+	
+}
+
+
